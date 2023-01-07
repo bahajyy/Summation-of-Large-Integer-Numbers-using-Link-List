@@ -169,7 +169,6 @@ int main()
     cout << "Final linked list is ";
     printList(head);
     return 0;
-    // çok uğraştım hocam ama sonuç eksik çıkıyor :(
 }
 
 
